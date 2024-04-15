@@ -1,0 +1,4 @@
+def add(2, 2):
+    return a + b
+output
+     4
